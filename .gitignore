@@ -33,5 +33,6 @@ build/
 .vscode/
 
 ##frontend##
-src/frontend/node_modules/
+##src/frontend/node_modules/
 
+node_modules/
